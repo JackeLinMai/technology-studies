@@ -27,8 +27,8 @@ public class contador {
 
         int contagem = parametroDois - parametroUm + 1;
 
-        for (int i = 1; i <= contagem; i++) {
-            System.out.println("Imprimindo o número " + (parametroUm + i - 1));
+        for (int o = 1;o <= contagem; o++) {
+            System.out.println("Imprimindo o número " + (parametroUm + o - 1));
         }
 
         return contagem;
