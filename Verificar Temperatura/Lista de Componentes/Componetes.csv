@@ -1,0 +1,7 @@
+﻿Nome,Quantidade,Componente
+"U1",1," Arduino Uno R3"
+"PIEZOPrezo 1",1," Piezo"
+"U2",1," Sensor de temperatura [TMP36]"
+"M1",1," Motor CC"
+"D1",1,"Vermelho LED"
+"R1",1,"1 kΩ Resistor"
